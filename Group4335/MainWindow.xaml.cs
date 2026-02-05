@@ -12,5 +12,10 @@ namespace Group4335
             Info infow = new Info();
             infow.Show();
         }
+        private void Group4335_Khamzina_Click(object sender, RoutedEventArgs e)
+        {
+            Info infow = new Info();
+            infow.Show();
+        }
     }
 }

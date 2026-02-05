@@ -78,6 +78,13 @@
                         Margin="5"
                         Click="Button1_Click"/>
 
+                <Button Grid.Row="17"
+                        Grid.Column="1"
+                        Content="Информация"
+                        Width="100"
+                        Margin="5"
+                        Click="Group4335_Khamzina_Click"/>
+
 			</Grid>
 		</Grid>
 	</Grid>
